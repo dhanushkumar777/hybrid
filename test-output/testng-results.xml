@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-30T14:01:54 GMT+05:30" name="Default suite" finished-at="2022-07-30T14:03:40 GMT+05:30" duration-ms="106373">
+  <suite started-at="2022-08-01T00:13:53 GMT+05:30" name="Suite" finished-at="2022-08-01T00:16:19 GMT+05:30" duration-ms="146029">
     <groups>
     </groups>
-    <test started-at="2022-07-30T14:01:54 GMT+05:30" name="Default test" finished-at="2022-07-30T14:03:40 GMT+05:30" duration-ms="106373">
+    <test started-at="2022-08-01T00:13:53 GMT+05:30" name="Test" finished-at="2022-08-01T00:16:19 GMT+05:30" duration-ms="146029">
       <class name="Runner.AmainRunnerClass">
-        <test-method is-config="true" signature="InitializeMethods()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-07-30T14:01:53 GMT+05:30" name="InitializeMethods" finished-at="2022-07-30T14:01:54 GMT+05:30" duration-ms="714" status="PASS">
+        <test-method is-config="true" signature="InitializeMethods()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-08-01T00:13:52 GMT+05:30" name="InitializeMethods" finished-at="2022-08-01T00:13:53 GMT+05:30" duration-ms="1667" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- InitializeMethods -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-07-30T14:01:54 GMT+05:30" name="setUp" finished-at="2022-07-30T14:02:02 GMT+05:30" duration-ms="8226" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-08-01T00:13:53 GMT+05:30" name="setUp" finished-at="2022-08-01T00:14:02 GMT+05:30" duration-ms="8692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="HoverElement()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-07-30T14:02:02 GMT+05:30" name="HoverElement" finished-at="2022-07-30T14:03:39 GMT+05:30" duration-ms="96685" status="PASS">
+        <test-method signature="HoverElement()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-08-01T00:14:02 GMT+05:30" name="HoverElement" finished-at="2022-08-01T00:16:17 GMT+05:30" duration-ms="134648" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HoverElement -->
-        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-07-30T14:03:39 GMT+05:30" name="tearDownMethod" finished-at="2022-07-30T14:03:40 GMT+05:30" duration-ms="1430" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-08-01T00:16:17 GMT+05:30" name="tearDownMethod" finished-at="2022-08-01T00:16:19 GMT+05:30" duration-ms="2594" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -30,11 +30,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="Clear()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-07-30T14:03:40 GMT+05:30" name="Clear" finished-at="2022-07-30T14:03:40 GMT+05:30" duration-ms="352" status="PASS">
+        <test-method is-config="true" signature="Clear()[pri:0, instance:Runner.AmainRunnerClass@2cae1042]" started-at="2022-08-01T00:16:19 GMT+05:30" name="Clear" finished-at="2022-08-01T00:16:20 GMT+05:30" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Clear -->
       </class> <!-- Runner.AmainRunnerClass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

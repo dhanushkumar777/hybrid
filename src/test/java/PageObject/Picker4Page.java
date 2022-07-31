@@ -47,7 +47,7 @@ public class Picker4Page extends BaseClass {
 //		
 		System.out.println(title);
 		
-		
+		log.info("Test 4 Matches");
 		driver.navigate().to("https://tide.com/en-us");
 		Thread.sleep(3000);
 		}

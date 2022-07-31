@@ -80,6 +80,7 @@ String test2 = excel.getstringdata("Page1", 1, 1);
  Slides9Page.slide(driver);
  ShopProductsPage.ShopHover(driver);
  Commitment3Page.commitHover(driver);
+ Picker4Page.picker(driver);
  
 
 	}
